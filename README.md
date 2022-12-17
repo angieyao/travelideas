@@ -1,5 +1,4 @@
 # Travel Ideas
-具有下列幾個分頁：
 <h3>/ HOME /</h3>
   從一開始的Javascript "WELCOME!!"到所有分頁的超連結 ，以及時間的顯示都是主頁所必須擁有的。<br>
 <h3>/ ABOUT /</h3>
